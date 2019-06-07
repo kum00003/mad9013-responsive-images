@@ -1,1 +1,1 @@
-# MADD9013-Responsive-Images
+# HTML-Responsive-Images 
